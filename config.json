@@ -1,0 +1,6 @@
+{
+    "version":"v4.0.0",
+    "enableAccCreate":"true",
+    "enableUploading":"true",
+    "listenOnPort":"2773"
+}
